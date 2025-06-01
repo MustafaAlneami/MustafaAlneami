@@ -15,7 +15,7 @@ I'm Mustafa — a passionate Flutter developer who loves building smooth, beauti
 - 🌐 **REST API** — Connecting data, creating real-time experiences  
 - 🧩 **Strapi** — Flexible content with a modern CMS  
 - 🛠 **Git & GitHub** — Committing code, not crimes 😄  
-- 🖌 **VS Code & Figma** — Where logic meets design
+- 🖌 **VS Code & Cursor** — Where logic meets design and vibing 🎶
 
 ---
 
