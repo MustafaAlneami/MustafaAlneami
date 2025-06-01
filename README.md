@@ -19,7 +19,7 @@
 
 
 ![Flutter Dev](https://img.shields.io/badge/Flutter-Dev_in_Progress-6C63FF?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart Ninja](https://img.shields.io/badge/Dart-Code_Ninja-00B4D8?style=for-the-badge&logo=dart&logoColor=white)
-![Bug Slayer](https://img.shields.io/badge/Bug_Slayer-Fearless_Debugger-FF6B6B?style=for-the-badge&logo=bugatti&logoColor=white)
+![Dart Ninja](https://img.shields.io/badge/Dart-Code_Ninja-6C63FF?style=for-the-badge&logo=dart&logoColor=white)
+![Bug Slayer](https://img.shields.io/badge/Bug_Slayer-Fearless_Debugger-6C63FF?style=for-the-badge&logo=bugatti&logoColor=white)
 ![Powered by Coffee](https://img.shields.io/badge/Powered_by-Coffee-F9A826?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
-![Remote Job](https://img.shields.io/badge/Remote_Job-Hunter-2EC4B6?style=for-the-badge&logo=globe&logoColor=white)
+![Remote Job](https://img.shields.io/badge/Remote_Job-Hunter-F9A826?style=for-the-badge&logo=globe&logoColor=white)
