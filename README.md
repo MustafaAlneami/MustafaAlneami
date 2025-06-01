@@ -12,7 +12,7 @@
 ![Strapi](https://img.shields.io/badge/Strapi-CMS_Power-8E44AD?style=for-the-badge&logo=strapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version_Control-F1502F?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-Coding_Space-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-UI_Design-FF7262?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-UI_Design-FF7262?style=for-the-badge&logo=figma&logoColor=blue)
 
 
 
