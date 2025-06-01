@@ -3,3 +3,9 @@
 
 
 ![Flutter Badge](https://img.shields.io/badge/Flutter-Master%20in%20Progress-blue)
+![Flutter Dev](https://img.shields.io/badge/Flutter-Dev%20in%20Progress-blue?style=for-the-badge&logo=flutter)
+![Dart Mastery](https://img.shields.io/badge/Dart-Level%20Up-orange?style=for-the-badge&logo=dart)
+![Physics Brain](https://img.shields.io/badge/Physicist-Breaking%20the%20Rules-9cf?style=for-the-badge&logo=atom)
+![Bug Slayer](https://img.shields.io/badge/Bug%20Slayer-Debugging%20Master-green?style=for-the-badge&logo=bugatti)
+![Coffee Power](https://img.shields.io/badge/Powered%20By-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee)
+![Remote Dream](https://img.shields.io/badge/Remote%20Job-Hunter-ff69b4?style=for-the-badge&logo=globe)
